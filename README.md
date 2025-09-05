@@ -2,8 +2,9 @@
 
 ## Project Overview
 
-This project is a **Python-based Rubik’s Cube solver** using a **Genetic Algorithm (GA)**.
-The main goal is to evolve sequences of moves that **solve the entire cube in a single end-to-end attempt**. This is implemented and tested in the `run_ga_end_to_end.py` script.
+| ![Cube solving](figures/cube2.gif) | This project is a **Python-based Rubik’s Cube solver** using a **Genetic Algorithm (GA)**.<br/>The goal is to evolve sequences of moves that solve the cube in one attempt. This is implemented and tested in the `run_ga_end_to_end.py` script.|
+|:---------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 Additionally, a **stage-based approach** is tested, gradually solving:
 
